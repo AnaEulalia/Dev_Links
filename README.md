@@ -33,8 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-
+- [Acesse o projeto finalizado, online](https://anaeulalia.github.io/Dev_Links/)
 
 ## 🔖 Layout
 
